@@ -22,7 +22,7 @@
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn](www.linkedin.com/in/ankit-sana-aa4264351)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-sana-aa4264351/)  
 - 📧 Email: ankitsana255@gmail.com
 
 ---
