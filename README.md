@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankit Sana  
 
-<!--
-**ankitsana025/ankitsana025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **About Me**  
+- 🎓 2nd year student in Electronics & Communication Engineering (ECE)  
+- 💻 Interested in Web Development, IoT, and AI projects  
+- 🚀 Always curious to learn and build cool stuff  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Languages:** C, C++, Python, JavaScript  
+- **Web:** HTML, CSS, JavaScript, React  
+- **Hardware:** Arduino, NodeMCU, Sensors  
+- **Tools:** Git, VS Code  
+
+---
+
+### 📌 Current Projects  
+- Weather + AI Chatbot (Web App) 🌦️🤖  
+- DIY Smart Lock with NodeMCU 🔐  
+
+---
+
+### 📫 Connect With Me  
+- 💼 [LinkedIn](www.linkedin.com/in/ankit-sana-aa4264351)  
+- 📧 Email: ankitsana255@gmail.com
+
+---
+
+⭐️ From [Ankit Sana](https://github.com/ankitsana025)  
