@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gemini.google.com/share/a3d1f38f3aba" alt="Coding" width="400" />
+  <img width="1024" height="775" alt="image" src="https://github.com/user-attachments/assets/c34b03f9-3fb2-416b-b863-83c7aa2b6131" />
 </p>
 
 ---
