@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **[Bari Vibes – Classic Home Décor E-Commerce Website](https://github.com/ankitsana025/E-Commerce-Store.git)**  
 - 👨‍💻 My projects **[Weather App with AI Chatbot](https://github.com/ankitsana025/Weather_web_App.git)**  
 - 📫 Reach me at: **ankitsana255@gmail.com**  
-- ⚡ Fun fact: **Built on curiosity, powered by overthinking, and still somehow getting things done.**
+- ⚡ Fun fact: **Built on curiosity, powered by overthinking, and still somehow getting things done**
 
 ---
 
@@ -64,6 +64,6 @@
 ---
 
 <p align="center">
-  <i>Built with ❤️ by Ankit Sans</i>
-  **Where curiosity meets code, and ideas become reality**
+  <i>Built with ❤️ by Ankit Sana</i>
 </p>
+- **Where curiosity meets code, and ideas become reality**
