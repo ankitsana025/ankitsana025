@@ -66,4 +66,7 @@
 <p align="center">
   <i>Built with ❤️ by Ankit Sana</i>
 </p>
-- **Where curiosity meets code, and ideas become reality**
+
+<p align="center">
+  <i>Where curiosity meets code, and ideas become reality</i>
+</p>
