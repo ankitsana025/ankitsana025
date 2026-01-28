@@ -2,7 +2,7 @@
 <h3 align="center">A second-year ECE student passionate about coding, hardware, and IoT. Exploring C, web development, and real-world projects.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal0111&label=Profile%20Views&color=0e75b6&style=flat" alt="prajwal0111" />
+  <img src="https://komarev.com/ghpvc/?username=ankitsana025&label=Profile%20Views&color=0e75b6&style=flat" alt="ankitsana025" />
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 ---
 
 ### 🛠️ About Me
-- Name: Prajwal Saha
-- College: Sister Nivedita University
+- Name: Ankit Sana
+- College: Techno International New Town
 - Year: 2nd year student
 - 🔭 I’m currently working on **[Bari Vibes – Classic Home Décor E-Commerce Website](https://github.com/ankitsana025/E-Commerce-Store.git)**  
-- 👨‍💻 My projects **[Weather App with AI Chatbot]([https://myportfolio-d6737.web.app/](https://github.com/ankitsana025/Weather_web_App.git))**  
+- 👨‍💻 My projects **[Weather App with AI Chatbot](https://github.com/ankitsana025/Weather_web_App.git)**  
 - 📫 Reach me at: **ankitsana255@gmail.com**  
 - ⚡ Fun fact: **Built on curiosity, powered by overthinking, and still somehow getting things done.**
 
@@ -24,10 +24,9 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://x.com/prajwalsaha2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prajwal-saha-6a4256322" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/sahaprajwal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/prajwalsaha/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://x.com/sana_ankit_025" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankit-sana-aa4264351" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ankit_sana_025" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -65,5 +64,6 @@
 ---
 
 <p align="center">
-  <i>Built with ❤️ by Prajwal Saha</i>
+  <i>Built with ❤️ by Ankit Sans</i>
+  **Where curiosity meets code, and ideas become reality**
 </p>
