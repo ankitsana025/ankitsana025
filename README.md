@@ -24,10 +24,31 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://x.com/sana_ankit_025" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankit-sana-aa4264351" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ankit_sana_025" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/sana_ankit_025" target="_blank">
+    <img src="https://github.com/user-attachments/assets/b420c84e-c133-4c9a-98bb-d3a1be649c7d"
+         width="30"
+         border="0" />
+  </a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="16" height="1" />
+
+  <a href="https://linkedin.com/in/ankit-sana-aa4264351" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fb50cce7-ad65-45d9-abf9-7d007ea585fd"
+         width="30"
+         border="0" />
+  </a>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="16" height="1" />
+
+  <a href="https://www.instagram.com/ankit_sana_025" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e0349ef2-1edc-4a55-b430-48bbf0008a56"
+         width="30"
+         border="0" />
+  </a>
 </p>
+
+
+
 
 ---
 
